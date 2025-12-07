@@ -1,5 +1,30 @@
-[file:2]
+# Hi, I'm Amiru 👋
 
+**Aspiring Full Stack Developer**  
+Passionate about building clean UIs and reliable backends, and turning ideas into production-ready web experiences.[file:2]
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Amiru Ekanayake**, a Computer Science undergraduate from Sri Lanka 🇱🇰.  
+Focused on full stack web development and freelance web projects, with a strong interest in UI/UX and problem-solving.[file:2]
+
+---
+
+## Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ---
 
 ## 🎓 Education & Achievements
