@@ -62,13 +62,6 @@ Focused on full stack web development and freelance web projects, with a strong 
 
 ---
 
-## 📊 GitHub Stats
-
-![Amiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amiru-Ekanayake&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiru-Ekanayake&layout=compact&theme=radical)
-
----
-
 ### ✨ Let’s Connect
 
 - LinkedIn: [amiru-ekanayake2406](https://www.linkedin.com/in/amiru-ekanayake2406)
