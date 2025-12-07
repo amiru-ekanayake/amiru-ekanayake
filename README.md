@@ -1,14 +1,14 @@
 # Hi, I'm Amiru 👋
 
 **Aspiring Full Stack Developer**  
-Passionate about building clean UIs and turning ideas into production-ready web experiences.[file:2]
+Passionate about building clean UIs and turning ideas into production-ready web experiences.
 
 ---
 
 ## 👨‍💻 About Me
 
 Hi! I'm **Amiru Ekanayake**, a Computer Science undergraduate from Sri Lanka 🇱🇰.  
-Focused on full stack web development and freelance web projects, with a strong interest in UI/UX and problem-solving.[file:2]
+Focused on full stack web development and freelance web projects, with a strong interest in UI/UX and problem-solving.
 
 ---
 
@@ -40,11 +40,11 @@ Focused on full stack web development and freelance web projects, with a strong 
 ## 🧑‍💼 Experience Timeline
 
 - 🎨 **Graphic Designer** — Promotional content for a private physics tutor  
-  - Designed engaging visuals that helped increase student enrollment and clearly communicated class value.[file:2]
+  - Designed engaging visuals that helped increase student enrollment and clearly communicated class value.
 - 💻 **IT Coordinator** — Royal College Art Circle (2023)  
-  - Managed the official website and coordinated multiple digital media projects.[file:2]
+  - Managed the official website and coordinated multiple digital media projects.
 - 🧩 **Project Chairman – Grafflix** — Community Media Service Initiative (2023)  
-  - Led five graphic teams, handled task assignments, and ensured high-quality graphic and video deliverables for school societies.[file:2]
+  - Led five graphic teams, handled task assignments, and ensured high-quality graphic and video deliverables for school societies.
 - 🎭 **Societies** — Senior committee member, Young Inventors Society member
 
 ---
