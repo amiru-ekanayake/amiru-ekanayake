@@ -1,7 +1,7 @@
 # Hi, I'm Amiru 👋
 
 **Aspiring Full Stack Developer**  
-Passionate about building clean UIs and reliable backends, and turning ideas into production-ready web experiences.[file:2]
+Passionate about building clean UIs and turning ideas into production-ready web experiences.[file:2]
 
 ---
 
